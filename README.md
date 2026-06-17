@@ -10,7 +10,6 @@ A Streamlit web app that predicts whether a loan applicant represents a **good**
   </a>
 </p>
 
-A Streamlit web app that predicts whether a loan applicant represents a good or bad credit risk...
 
  **App Screenshots**
 
