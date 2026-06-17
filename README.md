@@ -4,7 +4,11 @@ A Streamlit web app that predicts whether a loan applicant represents a **good**
 
 # CLICK BELOW TO TEST THE APP 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-risk-prediction-app-jofs8t5v28deeqgmcdvxmp.streamlit.app/)
+<p align="left">
+  <a href="https://credit-risk-prediction-app-jofs8t5v28deeqgmcdvxmp.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_Try_the_App_Live-FF4B4B?style=for-the-badge&logoColor=white&labelColor=FF4B4B" width="400" height="60">
+  </a>
+</p>
 
 A Streamlit web app that predicts whether a loan applicant represents a good or bad credit risk...
 
