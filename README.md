@@ -2,7 +2,7 @@
 
 A Streamlit web app that predicts whether a loan applicant represents a **good** or **bad** credit risk, based on the [German Credit Risk dataset](https://www.kaggle.com/datasets/uciml/german-credit). The app uses a trained ExtraTrees classifier and label encoders to turn user input into a prediction in real time.
 
-# Credit Risk Prediction App
+# CLICK BELOW TO TEST THE APP 
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://credit-risk-prediction-app-jofs8t5v28deeqgmcdvxmp.streamlit.app/)
 
