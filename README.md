@@ -21,8 +21,6 @@ Enter applicant details (age, sex, job category, housing, savings, checking acco
 └── README.md
 ```
 
-> Rename `train_model.ipynb` above to match whatever your training file is actually called.
-
 ## Dataset
 
 This project uses the **German Credit Risk** dataset, originally from the UCI Machine Learning Repository and commonly hosted on Kaggle. It contains 1,000 entries of loan applicants with attributes such as age, sex, job, housing situation, savings and checking account status, credit amount, and loan duration, labeled as good or bad credit risk.
@@ -46,7 +44,7 @@ This project uses the **German Credit Risk** dataset, originally from the UCI Ma
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/<thomasmamaila33>/<Credit-Risk-App>.git
    cd <your-repo-name>
    ```
 
