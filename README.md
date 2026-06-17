@@ -4,10 +4,8 @@ A Streamlit web app that predicts whether a loan applicant represents a **good**
 
 <table>
   <tr>
-    <td><img src="<img width="487" height="445" alt="image" src="https://github.com/user-attachments/assets/f401a8ce-ca21-4742-88b4-6e46931e5bb7" />
-" width="400"></td>
-    <td><img src="<img width="378" height="420" alt="image" src="https://github.com/user-attachments/assets/dc070d32-cf47-4458-b467-6a7c7251ffdf" />
-" width="400"></td>
+    <td><img src="<img width="487" height="445" alt="image" src="https://github.com/user-attachments/assets/f401a8ce-ca21-4742-88b4-6e46931e5bb7" />" width="400"></td>
+    <td><img src="<img width="378" height="420" alt="image" src="https://github.com/user-attachments/assets/dc070d32-cf47-4458-b467-6a7c7251ffdf" />" width="400"></td>
   </tr>
 </table>
 
