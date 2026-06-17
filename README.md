@@ -45,7 +45,7 @@ This project uses the **German Credit Risk** dataset, originally from the UCI Ma
 1. Clone the repository:
    ```bash
    git clone https://github.com/<thomasmamaila33>/<Credit-Risk-App>.git
-   cd <your-repo-name>
+   cd <Credit-Risk-App>
    ```
 
 2. (Optional but recommended) Create and activate a virtual environment:
